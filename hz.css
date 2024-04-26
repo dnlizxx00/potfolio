@@ -54,9 +54,8 @@ nav ul li a {
     font-size: 50px; 
 } 
  
-.aboutmeme { 
-    text-align: center; 
-    font-size: 40px; 
+.aboutmeme {  
+    font-size: 30px; 
 } 
  
 .phota { 
@@ -105,7 +104,7 @@ nav ul li a {
     display: block; 
     margin: 10px auto; 
     text-align: center; 
-    text-decoration: black; 
+    text-decoration: red; 
 } 
  
 .artics img { 
